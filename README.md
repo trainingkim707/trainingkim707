@@ -6,15 +6,13 @@
 
 ## 🧑‍💻 Contact Me 🧑‍💻
 
-
-<a href="https://www.notion.so/https://app.notion.com/p/b587f07740a28246b4740119df53c876?source=copy_link">
+<a href="https://app.notion.com/p/b587f07740a28246b4740119df53c876?source=copy_link" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
-<a href="mailto:https://blog.naver.com/trainingkim707">
-  <img src="https://img.shields.io/badge/Naver-EA4335?style=for-the-badge&logo=Naver&logoColor=white">
+<a href="https://blog.naver.com/trainingkim707" target="_blank">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 </a>
-
 
 </div>
 
@@ -23,9 +21,7 @@
 <h2 align="center">📧 Email 📧</h2>
 
 <p align="center">
-<strong>이메일주소</strong>
-
- trainingkim707@gmail.com
+<strong>trainingkim707@gmail.com</strong>
 </p>
 
 <br>
