@@ -22,5 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trainingkim707)](https://github.com/trainingkim707/github-readme-stats)
+
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trainingkim707)](https://github.com/trainingkim707/github-readme-stats)
