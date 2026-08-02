@@ -4,7 +4,7 @@
   <h3>반갑습니다! Trainingkim입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
   </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trainingkim707&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trainingkim707&show_icons=true&theme=radical)
   
 📚 Languages / Library / Tools 📚
   
